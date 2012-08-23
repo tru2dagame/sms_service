@@ -1,0 +1,32 @@
+body {
+	background-color: #EEF;
+}
+#wrap {
+	position: relative;
+	float: left;
+	margin: 26px 0 0 37px;
+	display: inline;
+	width: 396px;
+	height: 796px;
+	background: url(images/iPhone.jpg) no-repeat;
+	z-index: 20;
+}
+#content {
+	padding: 140px 30px 0px 40px;
+	float:left;
+}
+#text {
+	padding: 40px 30px 0px 40px;
+	float:left;
+}
+#send {
+	padding: 40px 30px 0px 40px;
+	float:right;
+}
+.main-input, .added {
+	float:left;
+}
+
+.mobile {
+	width: 120px;
+}
