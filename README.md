@@ -1,4 +1,6 @@
 tru2dagame
 ===========
 
-SAE SMS ·şÎñ
+SAE SMS service
+
+ä¸å«sae sdk
